@@ -67,7 +67,6 @@
 2. **Enhance Security**
    - Use a more robust password hashing algorithm like bcrypt.
    - Implement rate limiting to prevent brute force attacks.
-   - Add CSRF protection for form submissions.
 
 3. **Expand Testing**
    - Add more comprehensive unit tests for all endpoints.
